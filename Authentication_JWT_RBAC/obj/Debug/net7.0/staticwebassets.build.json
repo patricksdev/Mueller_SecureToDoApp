@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4Iva52yce4524cdPrLdMh5Cjgl/JM+fOC6jPI7325ns=",
+  "Source": "Authentication_JWT_RBAC",
+  "BasePath": "_content/Authentication_JWT_RBAC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
